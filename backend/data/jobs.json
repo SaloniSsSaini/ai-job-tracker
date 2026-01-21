@@ -1,0 +1,14 @@
+[
+  {
+    "id": "1",
+    "title": "React Developer",
+    "company": "ABC Tech",
+    "location": "Remote",
+    "skills": ["React", "JavaScript"],
+    "jobType": "Full-time",
+    "workMode": "Remote",
+    "description": "Looking for React developer",
+    "applyLink": "https://example.com",
+    "postedAt": "2026-01-18"
+  }
+]
